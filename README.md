@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Marko
+# Hi, I'm Marko
 
 > I am a 24-year-old M.Sc. Computer and Information Science student at the University of Konstanz, where I previously completed my B.Sc. in Informatik. I am passionate about software development and bring strong programming skills to both academic and practical projects.
 
 ---
 
-## 🔎 About Me
+## About Me
 
 - 💼 Current status: M.Sc. Computer and Information Science student
 - 📍 Location: near Konstanz, Germany (open to remote opportunities)
@@ -17,7 +17,7 @@ I combine analytical and creative thinking to solve technical problems effective
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:** JavaScript, TypeScript, Python, Java, Haskell
 
@@ -31,7 +31,7 @@ I combine analytical and creative thinking to solve technical problems effective
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1) CO2 Plan Router
 - **What it is:** A route planner supporting up to four transportation modes, designed to compare sustainability and travel quality based on factors such as CO2 emissions, travel time, comfort, and productivity while traveling.
@@ -50,7 +50,7 @@ I combine analytical and creative thinking to solve technical problems effective
 
 ---
 
-## 🏆 Achievements (Optional)
+## Achievements (Optional)
 
 - B.Sc. Informatik final grade: 1.8
 - B.Sc. thesis grade: 1.0
@@ -58,7 +58,7 @@ I combine analytical and creative thinking to solve technical problems effective
 
 ---
 
-## 📬 Contact
+## Contact
 
 - Email: lalala@example.com
 - LinkedIn: https://linkedin.com/in/your-profile
@@ -67,6 +67,6 @@ I combine analytical and creative thinking to solve technical problems effective
 
 ---
 
-## ✅ What I’m Looking For
+## What I’m Looking For
 
 I am looking for a role where I can contribute to real software engineering projects using my current tech stack while continuously learning new technologies and best practices.
